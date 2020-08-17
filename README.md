@@ -12,4 +12,4 @@ This The first app part, with login, and secure system, Continue from here
 
 
 ## today 8/17/2020
-*  last version num3
+*  last version num3 missing .sql
