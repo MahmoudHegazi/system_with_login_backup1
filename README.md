@@ -9,3 +9,7 @@
 * now you configured the database and sarted server visit this url localhost/myadmin enjoy my system
 * ( full secure I could build better that flask but php is required)
 This The first app part, with login, and secure system, Continue from here
+
+
+## today 8/17/2020
+*  last version num3
